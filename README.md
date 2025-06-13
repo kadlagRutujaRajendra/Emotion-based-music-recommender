@@ -48,41 +48,25 @@ emotion-music-recommender/
 ├── requirements.txt # Required Python libraries
 └── README.md # Project documentation
 
-bash
-Copy
-Edit
-
-## 🚀 Getting Started
-
 ### Prerequisites
 
 - Python 3.x
 - Webcam (for real-time emotion detection)
 
 ### Installation
-
-```bash
-git clone https://github.com/yourusername/emotion-music-recommender.git
+git clone https://github.com/kadlagRutujaRajendra/emotion-music-recommender.git
 cd emotion-music-recommender
 pip install -r requirements.txt
 python main.py
+
 🧠 How It Works
 Captures real-time image via webcam.
-
 Detects face and processes it using pre-trained CNN model.
-
 Classifies the emotion from the face.
-
 Maps the emotion to a playlist or song folder.
-
 Plays a song based on the detected emotion.
 
-📸 Sample Screenshots
-(Add screenshots or GIFs showing the UI and emotion detection in action)
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙋‍♀️ Author
 Developed by RUTUJA KADLAG
-GitHub | LinkedIn
+LinkedIn: https://www.linkedin.com/in/rutuja-kadlag-357544258
